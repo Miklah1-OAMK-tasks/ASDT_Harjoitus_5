@@ -1,6 +1,7 @@
 ASDT harjoitus 5
 
 Videolinkki harjoituksen esittelyvideoon: https://youtu.be/FCb2Rh9wwIw
+GitHub-repositorio: https://github.com/Miklah1-OAMK-tasks/ASDT_Harjoitus_5
 
 HARJOITUS 5 (MAX 5 PISTETTÄ) – ERNESTI JA KERNESTI AUTIOLLA SAARELLA
  

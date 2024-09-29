@@ -1,4 +1,5 @@
 # VIDEOLINKKI ESITTELYVIDEOON: https://youtu.be/FCb2Rh9wwIw
+# GitHub-repositorio: https://github.com/Miklah1-OAMK-tasks/ASDT_Harjoitus_5
 
 import tkinter as tk
 import threading
